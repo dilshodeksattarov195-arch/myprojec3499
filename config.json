@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvalculate",
+        "uuid": 20038773,
+        "checksum": "gtb6kg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
